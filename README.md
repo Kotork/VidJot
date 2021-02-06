@@ -2,7 +2,7 @@
 
 It was a course from Udemy to learn how to use node and mongodb.
 
-What we used:
+What I used:
   - Handlebars
   - Bootstrap 4
   - Node
